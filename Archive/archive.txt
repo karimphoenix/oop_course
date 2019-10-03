@@ -1,0 +1,9 @@
+Archive Id:1
+Name: Vasya
+Sex: 0
+Age: 18
+
+Name: Tanya
+Sex: 1
+Age: 18
+
